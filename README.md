@@ -2,7 +2,7 @@
 
 :wave: Hey there! I'm Zarin Anjum Madhiha, glad you're visiting my GitHub profile.
 
-🎓 Graduate Researcher | 🤖 Roboticist | 🚀 Edge AI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Graduate+Researcher;Roboticist;Edge+AI+Enthusiast" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7fabbe2f-acbb-4d07-8ab8-92f6d5677e86" alt="Robotics GIF" width="800">
