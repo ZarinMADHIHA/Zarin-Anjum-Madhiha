@@ -18,9 +18,20 @@
 </p>
 
 
-👩‍🚀 About Me
+
+---
+
+### 👩‍🚀 About Me
 
 I am currently pursuing my MSc in Electrical and Electronic Engineering at BRAC University, focusing on the intersection of Space Robotics and Space Debris Removal or Space Safety Domain, Edge AI, Robot Perception and 3D Reconstruction, and Planetary Exploration.
 
 My research revolves around pushing the boundaries of what robots can do in resource, constrained environments—whether that's navigating the surface of Mars or providing affordable healthcare solutions through wearable exoskeletons.
+
+---
+
+
+
+
+
+
 
